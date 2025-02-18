@@ -20,24 +20,27 @@ Here are some ideas to get you started:
 I'm a software developer with a background in Business Administration, passionate about building scalable and efficient applications. My expertise spans backend development, cloud computing, and software architecture.
 
 ## 💡 What I Do
-- **Backend Development:** NestJS, Node.js, DynamoDB, AWS Lambda, API Gateway
+- **Backend Development:** NestJS, Node.js, Typescript, DynamoDB, AWS Lambda, API Gateway
 - **Frontend Development:** Angular, React (Vite, Tailwind CSS, @szhsin/react-menu)
-- **Cloud & DevOps:** AWS (EKS, CDK, Cognito, S3, DynamoDB, API Gateway), GitHub Actions
+- **Cloud & DevOps:** AWS (EKS, CDK, Cognito, S3, SNS, SQS, EventBridge, DynamoDB, API Gateway), GitHub Actions, Azure DevOps
 - **Database Management:** DynamoDB (preferred), SQL
-- **Testing:** Jest
+- **Testing:** Jest, Mocha, Jasmine
 - **Monorepo & Microservices:** NestJS, http-proxy-middleware
+- **Web3 & Blockchain:** Smart contracts, decentralized applications, blockchain development
+
 
 ## 🔥 Current Projects
-- **Escrow as a Service** (NestJS, serverless architecture)
+- **Stream Application** (NestJS, serverless architecture)
 - **SaaS Role-Based Access Control** (AWS IAM-inspired system)
 - **ERP System** (Inventory, CRM, POS, Warehousing)
-- **Chat App (WhatsApp-like)** (Cloud media storage, Firebase for group activities)
+- **Chat App (WhatsApp-like)** (Cloud media storage, Azure blob, AWS S3, Firebase for group activities)
 - **Hospitality Business Showcase App** (Menus, locations, and business profiles)
 - **KYC & Address Verification Platform**
 
 ## 🎯 Career Goals
 - Become a **Software Architect**
-- Master **AWS EKS, Java, and Kotlin**
+- Develop Expertise in **Web3**
+- Gain **Web3 Development Expertise** (Blockchain, Smart Contracts, dApps)
 
 ## 📫 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/cornelius-okeke/
