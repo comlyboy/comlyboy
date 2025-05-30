@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 I'm a software developer with a background in Business Administration, passionate about building scalable and efficient applications. My expertise spans backend development, cloud computing, and software architecture.
 
 ## 💡 What I Do
-- **Backend Development:** NestJS, Node.js, Typescript, DynamoDB, AWS Lambda, API Gateway
-- **Frontend Development:** Angular, React (Vite, Tailwind CSS, @szhsin/react-menu)
-- **Cloud & DevOps:** AWS (EKS, CDK, Cognito, S3, SNS, SQS, EventBridge, DynamoDB, API Gateway), GitHub Actions, Azure DevOps
-- **Database Management:** DynamoDB (preferred), SQL
-- **Testing:** Jest, Mocha, Jasmine
-- **Monorepo & Microservices:** NestJS, http-proxy-middleware
-- **Web3 & Blockchain:** Smart contracts, decentralized applications, blockchain development
+- **Backend Development:** NestJS, Node.js, Typescript, DynamoDB, AWS Lambda, API Gateway.
+- **Frontend Development:** Angular, React (Vite, Tailwind CSS, Radix-UI, @szhsin/react-menu).
+- **Cloud & DevOps:** AWS (EKS, CDK, Cognito, S3, SNS, SQS, EventBridge, DynamoDB, API Gateway), Azure App-Service, GitHub Actions, Azure DevOps.
+- **AI & Machine Learning:** OpenAI API (GPT, Whisper), Prompt Engineering, MCP (Model Context Protocol), AWS Bedrock, Gemini, Anthropic Claude, Azure AI Foundry, AI-driven features integration, ML model consumption via APIs.
+- **Database Management:** DynamoDB (preferred), MongoDB, PostgreSQL.
+- **Testing:** Chai, Jest, Mocha, Jasmine, Playwright, Vitest.
+- **Monorepo & Microservices:** NestJS, http-proxy-middleware, Nx, AWS SQS, AWS SNS, RabbitMQ, Kafka.
+- **Web3 & Blockchain:** Smart contracts, decentralized applications, blockchain development.
 
 
 ## 🔥 Current Projects
