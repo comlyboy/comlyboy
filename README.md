@@ -16,34 +16,210 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Cornelius Okeke
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-okeke/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/comlyboy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okekecornelius@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=comlyboy&color=brightgreen&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/comlyboy?style=for-the-badge&logo=github)](https://github.com/comlyboy)
+
+</div>
+
 ## 🚀 About Me
-I'm a software developer with a background in Business Administration, passionate about building scalable and efficient applications. My expertise spans backend development, cloud computing, and software architecture.
 
-## 💡 What I Do
-- **Backend Development:** NestJS, Node.js, Typescript, DynamoDB, AWS Lambda, API Gateway.
-- **Frontend Development:** Angular, React (Vite, Tailwind CSS, Radix-UI, @szhsin/react-menu).
-- **Cloud & DevOps:** AWS (EKS, CDK, Cognito, S3, SNS, SQS, EventBridge, DynamoDB, API Gateway), Azure App-Service, GitHub Actions, Azure DevOps.
-- **AI & Machine Learning:** OpenAI API (GPT, Whisper), Prompt Engineering, MCP (Model Context Protocol), AWS Bedrock, Gemini, Anthropic Claude, Azure AI Foundry, AI-driven features integration, ML model consumption via APIs.
-- **Database Management:** DynamoDB (preferred), MongoDB, PostgreSQL.
-- **Testing:** Chai, Jest, Mocha, Jasmine, Playwright, Vitest.
-- **Monorepo & Microservices:** NestJS, http-proxy-middleware, Nx, AWS SQS, AWS SNS, RabbitMQ, Kafka.
-- **Web3 & Blockchain:** Smart contracts, decentralized applications, blockchain development.
+I'm a passionate **Software Developer** with a unique background in **Business Administration**, specializing in building **scalable, efficient, and innovative applications**. My expertise bridges the gap between business requirements and technical implementation, focusing on **backend development**, **cloud architecture**, and **emerging technologies**.
 
+> *"Transforming business ideas into robust, scalable software solutions"*
 
-## 🔥 Current Projects
-- **Stream Application** (NestJS, serverless architecture)
-- **SaaS Role-Based Access Control** (AWS IAM-inspired system)
-- **ERP System** (Inventory, CRM, POS, Warehousing)
-- **Chat App (WhatsApp-like)** (Cloud media storage, Azure blob, AWS S3, Firebase for group activities)
-- **Hospitality Business Showcase App** (Menus, locations, and business profiles)
-- **KYC & Address Verification Platform**
+---
 
-## 🎯 Career Goals
-- Become a **Software Architect**
-- Develop Expertise in **Web3**
-- Gain **Web3 Development Expertise** (Blockchain, Smart Contracts, dApps)
+## 🛠️ Technology Stack
 
-## 📫 Get in Touch
-- LinkedIn: https://www.linkedin.com/in/cornelius-okeke/
-- GitHub: https://github.com/comlyboy
-- Email: okekecornelius@gmail.com
+### **Backend Development**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### **Frontend Development**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### **Databases**
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **AI & Machine Learning**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### **Testing & Quality**
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+
+<!-- ### **Web3 & Blockchain**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white) -->
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comlyboy&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comlyboy&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=comlyboy&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 💡 Core Competencies
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🏗️ **Architecture & Design**
+- **Microservices Architecture**
+- **Serverless Computing**
+- **API Design & Development**
+- **System Scalability**
+- **Performance Optimization**
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ **Cloud Technologies**
+- **AWS Services** (EKS, CDK, Lambda, S3, SNS, SQS)
+- **Azure Platform** (App Service, Blob Storage)
+- **Infrastructure as Code**
+- **CI/CD Pipelines**
+- **Container Orchestration**
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 **AI Integration**
+- **GPT & Whisper APIs**
+- **Prompt Engineering**
+- **Model Context Protocol (MCP)**
+- **AI-driven Feature Development**
+- **ML Model Integration**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Featured Projects
+
+### 🎯 **Current Development Focus**
+
+| Project | Technologies | Status | Description |
+|---------|-------------|---------|-------------|
+| **Stream Application** | NestJS, AWS Lambda, Serverless | 🚀 Active | High-performance streaming platform with serverless architecture.
+
+---
+
+## 🎯 Professional Objectives
+
+```mermaid
+graph TD
+    A[Current: Full-Stack Developer] --> B[Next: Software Architect]
+    B --> C[Specialization: Cloud Architecture]
+    B --> D[Specialization: Web3 Development]
+    D --> E[Smart Contracts & dApps]
+    C --> F[Enterprise Solutions]
+    F --> G[Technical Leadership]
+    E --> G
+```
+
+### 🌟 **Career Roadmap**
+- 🏗️ **Software Architecture Mastery** - Design scalable, maintainable systems
+- 🔗 **Web3 Expertise** - Blockchain, Smart Contracts, Decentralized Applications
+- 👥 **Technical Leadership** - Mentoring teams and driving technical decisions
+- 🌐 **Open Source Contribution** - Contributing to developer community
+
+---
+
+## 📈 Activity & Contributions
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=comlyboy&theme=react-dark&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 💼 **Business Administration Background** - Unique blend of technical and business expertise
+- 🚀 **Startup Experience** - Built products from concept to production
+- ☁️ **Cloud Certified** - AWS and Azure platform expertise
+- 🤖 **AI Pioneer** - Early adopter of AI integration in software development
+- 🔗 **Web3 Explorer** - Blockchain and decentralized technology enthusiast
+
+---
+
+## 📚 Knowledge Sharing
+
+I believe in giving back to the developer community through:
+- 📝 **Technical Documentation** - Comprehensive project documentation
+- 🎯 **Best Practices** - Sharing architecture patterns and development methodologies
+- 🤝 **Mentorship** - Guiding junior developers in their career journey
+- 🔄 **Open Source** - Contributing to community projects
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+**I'm always interested in discussing:**
+- 🏗️ Software Architecture & System Design
+- ☁️ Cloud Computing & DevOps
+- 🤖 AI Integration & Automation
+- 🔗 Web3 & Blockchain Technology
+- 💼 Business-Driven Development
+
+[![LinkedIn](https://img.shields.io/badge/Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-okeke/)
+[![GitHub](https://img.shields.io/badge/Code_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/comlyboy)
+[![Email](https://img.shields.io/badge/Direct_Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okekecornelius@gmail.com)
+
+*"Let's build something amazing together!"* 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"The best way to predict the future is to create it."*
+
+**Thank you for visiting my profile! ⭐ Star some repositories if you find them interesting!**
+
+</div>
