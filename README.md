@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 # Hi there! 👋 I'm Cornelius Okeke
 
 <div align="center">
@@ -72,12 +71,10 @@ I'm a passionate **Software Developer** with a unique background in **Business A
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
-<!-- ### **Web3 & Blockchain**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white) -->
+### **Systems Programming**
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
@@ -111,22 +108,22 @@ I'm a passionate **Software Developer** with a unique background in **Business A
 </td>
 <td valign="top" width="33%">
 
-### ☁️ **Cloud Technologies**
-- **AWS Services** (EKS, CDK, Lambda, S3, SNS, SQS)
-- **Azure Platform** (App Service, Blob Storage)
-- **Infrastructure as Code**
-- **CI/CD Pipelines**
-- **Container Orchestration**
-
-</td>
-<td valign="top" width="33%">
-
 ### 🤖 **AI Integration**
 - **GPT & Whisper APIs**
 - **Prompt Engineering**
 - **Model Context Protocol (MCP)**
 - **AI-driven Feature Development**
 - **ML Model Integration**
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ **Cloud Technologies**
+- **AWS Services** (EKS, CDK, Lambda, S3, SNS, SQS)
+- **Azure Platform** (App Service, Blob Storage)
+- **Infrastructure as Code**
+- **CI/CD Pipelines**
+- **Container Orchestration**
 
 </td>
 </tr>
@@ -140,7 +137,12 @@ I'm a passionate **Software Developer** with a unique background in **Business A
 
 | Project | Technologies | Status | Description |
 |---------|-------------|---------|-------------|
-| **Stream Application** | NestJS, AWS Lambda, Serverless | 🚀 Active | High-performance streaming platform with serverless architecture.
+| **Stream Application** | NestJS, AWS Lambda, Serverless | 🚀 Active | High-performance streaming platform with serverless architecture |
+| **SaaS RBAC System** | AWS IAM, DynamoDB, NestJS | 🔧 Development | Enterprise-grade role-based access control inspired by AWS IAM |
+| **Enterprise ERP Suite** | Angular, NestJS, PostgreSQL | 📈 Scaling | Complete business management system (Inventory, CRM, POS, Warehousing) |
+| **Real-time Chat Platform** | React, WebSocket, AWS S3, Azure Blob | 💬 Beta | WhatsApp-inspired messaging with cloud media storage |
+| **Hospitality Showcase** | React, Tailwind CSS, AWS | 🏨 Live | Digital business profiles for hospitality industry |
+| **KYC Verification Platform** | NestJS, AI APIs, DynamoDB | 🔐 Production | Automated identity and address verification system |
 
 ---
 
@@ -150,8 +152,8 @@ I'm a passionate **Software Developer** with a unique background in **Business A
 graph TD
     A[Current: Full-Stack Developer] --> B[Next: Software Architect]
     B --> C[Specialization: Cloud Architecture]
-    B --> D[Specialization: Web3 Development]
-    D --> E[Smart Contracts & dApps]
+    B --> D[Specialization: Systems Programming]
+    D --> E[Rust & WebAssembly]
     C --> F[Enterprise Solutions]
     F --> G[Technical Leadership]
     E --> G
@@ -159,7 +161,7 @@ graph TD
 
 ### 🌟 **Career Roadmap**
 - 🏗️ **Software Architecture Mastery** - Design scalable, maintainable systems
-- 🔗 **Web3 Expertise** - Blockchain, Smart Contracts, Decentralized Applications
+- 🦀 **Systems Programming Expertise** - Rust, Performance Optimization, Memory Safety
 - 👥 **Technical Leadership** - Mentoring teams and driving technical decisions
 - 🌐 **Open Source Contribution** - Contributing to developer community
 
@@ -181,7 +183,7 @@ graph TD
 - 🚀 **Startup Experience** - Built products from concept to production
 - ☁️ **Cloud Certified** - AWS and Azure platform expertise
 - 🤖 **AI Pioneer** - Early adopter of AI integration in software development
-- 🔗 **Web3 Explorer** - Blockchain and decentralized technology enthusiast
+- 🦀 **Systems Programming Enthusiast** - Currently mastering Rust for high-performance applications
 
 ---
 
@@ -203,7 +205,7 @@ I believe in giving back to the developer community through:
 - 🏗️ Software Architecture & System Design
 - ☁️ Cloud Computing & DevOps
 - 🤖 AI Integration & Automation
-- 🔗 Web3 & Blockchain Technology
+- 🦀 Systems Programming & Rust
 - 💼 Business-Driven Development
 
 [![LinkedIn](https://img.shields.io/badge/Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-okeke/)
