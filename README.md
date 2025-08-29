@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-okeke/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/comlyboy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okekecornelius@gmail.com)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=comlyboy&color=brightgreen&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-okeke/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okekecornelius@gmail.com)
 [![Followers](https://img.shields.io/github/followers/comlyboy?style=for-the-badge&logo=github)](https://github.com/comlyboy)
 
 </div>
@@ -82,11 +80,11 @@ I'm a passionate **Software Developer** with a unique background in **Business A
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comlyboy&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comlyboy&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comlyboy&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comlyboy&theme=radical&langs_count=15)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=comlyboy&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=comlyboy&theme=radical)
 
 </div>
 
