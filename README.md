@@ -82,7 +82,7 @@ I'm a passionate **Software Developer** with a unique background in **Business A
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comlyboy&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comlyboy&theme=radical&langs_count=15)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comlyboy&theme=radical&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=comlyboy&theme=radical)
 
