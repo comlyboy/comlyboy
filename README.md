@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=comlyboy&color=brightgreen&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://corneliusokeke.netlify.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-okeke/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okekecornelius@gmail.com)
 [![Followers](https://img.shields.io/github/followers/comlyboy?style=for-the-badge&logo=github)](https://github.com/comlyboy)
