@@ -1,18 +1,3 @@
-<!--
-**comlyboy/comlyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there! 👋 I'm Cornelius Okeke
 
 <div align="center">
@@ -25,202 +10,188 @@ Here are some ideas to get you started:
 
 </div>
 
-## 🚀 About Me
+------------------------------------------------------------------------
 
-I'm a passionate **Software Developer** with a unique background in **Business Administration**, specializing in building **scalable, efficient, and innovative applications**. My expertise bridges the gap between business requirements and technical implementation, focusing on **backend development**, **cloud architecture**, and **emerging technologies**.
+# 🚀 About Me
 
-> *"Transforming business ideas into robust, scalable software solutions"*
+I'm a **Full-Stack Engineer and AI Automation Builder** with a
+background in **Business Administration**, specializing in building
+**AI-powered SaaS platforms, intelligent automation systems, and
+scalable cloud architectures**.
 
----
+I focus on **turning complex business processes into automated,
+AI-driven systems** that improve productivity, decision-making, and user
+experience.
 
-## 🛠️ Technology Stack
+My work combines:
 
-### **Backend Development**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+-   Backend Engineering
+-   Cloud Infrastructure
+-   AI Integration
+-   Workflow Automation
+-   System Architecture
 
-### **Frontend Development**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+> *"Transforming business workflows into intelligent, AI-powered
+> software systems."*
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+------------------------------------------------------------------------
 
-### **Databases**
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+# 🛠️ Technology Stack
 
-### **AI & Machine Learning**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+## Backend Development
 
-### **Testing & Quality**
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+-   NestJS
+-   Node.js
+-   TypeScript
+-   Express.js
 
-### **Systems Programming**
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
+Building **high-performance APIs, microservices, and AI-enabled backend
+systems**.
 
----
+------------------------------------------------------------------------
 
-## 📊 GitHub Statistics
+## Frontend Development
 
-<div align="center">
+-   Angular
+-   React
+-   Vite
+-   TailwindCSS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comlyboy&show_icons=true&theme=radical&count_private=true)
+Developing **modern UI platforms and AI-assisted user experiences**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comlyboy&theme=radical&langs_count=10)
+------------------------------------------------------------------------
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=comlyboy&theme=radical)
+## Cloud & DevOps
 
-</div>
+-   AWS
+-   Azure
+-   Docker
+-   GitHub Actions
+-   Kubernetes
 
----
+Designing **serverless architectures, event-driven systems, and scalable
+AI infrastructure**.
 
-## 💡 Core Competencies
+------------------------------------------------------------------------
 
-<table>
-<tr>
-<td valign="top" width="33%">
+## Databases
 
-### 🏗️ **Architecture & Design**
-- **Microservices Architecture**
-- **Serverless Computing**
-- **API Design & Development**
-- **System Scalability**
-- **Performance Optimization**
+-   DynamoDB
+-   MongoDB
+-   PostgreSQL
 
-</td>
-<td valign="top" width="33%">
+Optimized for **large-scale SaaS platforms and AI-driven applications**.
 
-### 🤖 **AI Integration**
-- **GPT & Whisper APIs**
-- **Prompt Engineering**
-- **Model Context Protocol (MCP)**
-- **AI-driven Feature Development**
-- **ML Model Integration**
+------------------------------------------------------------------------
 
-</td>
-<td valign="top" width="33%">
+# 🤖 AI Engineering & Automation
 
-### ☁️ **Cloud Technologies**
-- **AWS Services** (EKS, CDK, Lambda, S3, SNS, SQS)
-- **Azure Platform** (App Service, Blob Storage)
-- **Infrastructure as Code**
-- **CI/CD Pipelines**
-- **Container Orchestration**
+Tools & platforms I work with:
 
-</td>
-</tr>
-</table>
+-   OpenAI
+-   LangChain
+-   LlamaIndex
+-   Anthropic Claude
+-   Google Gemini
+-   AWS Bedrock
+-   Pinecone
+-   Weaviate
 
----
+Building **AI-powered applications** including:
 
-## 🔥 Featured Projects
+-   AI copilots
+-   LLM integrations
+-   RAG systems
+-   AI agents
+-   AI workflow automation
+-   conversational interfaces
 
-### 🎯 **Current Development Focus**
+------------------------------------------------------------------------
 
-| Project | Technologies | Status | Description |
-|---------|-------------|---------|-------------|
-| **Stream Application** | NestJS, AWS Lambda, Serverless | 🚀 Active | High-performance streaming platform with serverless architecture |
-| **SaaS RBAC System** | AWS IAM, DynamoDB, NestJS | 🔧 Development | Enterprise-grade role-based access control inspired by AWS IAM |
-| **Enterprise ERP Suite** | Angular, NestJS, PostgreSQL | 📈 Scaling | Complete business management system (Inventory, CRM, POS, Warehousing) |
-| **Real-time Chat Platform** | React, WebSocket, AWS S3, Azure Blob | 💬 Beta | WhatsApp-inspired messaging with cloud media storage |
-| **Hospitality Showcase** | React, Tailwind CSS, AWS | 🏨 Live | Digital business profiles for hospitality industry |
-| **KYC Verification Platform** | NestJS, AI APIs, DynamoDB | 🔐 Production | Automated identity and address verification system |
+# 🦀 Systems Programming
 
----
+-   Rust
 
-## 🎯 Professional Objectives
+Leveraging Rust for:
 
-```mermaid
-graph TD
-    A[Current: Full-Stack Developer] --> B[Next: Software Architect]
-    B --> C[Specialization: Cloud Architecture]
-    B --> D[Specialization: Systems Programming]
-    D --> E[Rust & WebAssembly]
-    C --> F[Enterprise Solutions]
-    F --> G[Technical Leadership]
-    E --> G
-```
+-   high-performance services
+-   memory-safe systems
+-   compute-intensive backend tasks
+-   AI infrastructure components
 
-### 🌟 **Career Roadmap**
-- 🏗️ **Software Architecture Mastery** - Design scalable, maintainable systems
-- 🦀 **Systems Programming Expertise** - Rust, Performance Optimization, Memory Safety
-- 👥 **Technical Leadership** - Mentoring teams and driving technical decisions
-- 🌐 **Open Source Contribution** - Contributing to developer community
+------------------------------------------------------------------------
 
----
+# 💡 Core Competencies
 
-## 📈 Activity & Contributions
+### Architecture
 
-<div align="center">
+-   Microservices Architecture
+-   Serverless Computing
+-   API Design
+-   System Scalability
+-   Performance Optimization
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=comlyboy&theme=react-dark&hide_border=true)
+### AI Engineering
 
-</div>
+-   LLM Integration
+-   RAG Systems
+-   Prompt Engineering
+-   AI Agents
+-   AI Automation
 
----
+### Cloud Infrastructure
 
-## 🏆 Achievements & Recognition
+-   AWS Architecture
+-   Azure Platform
+-   Infrastructure as Code
+-   CI/CD Pipelines
+-   Container Orchestration
 
-- 💼 **Business Administration Background** - Unique blend of technical and business expertise
-- 🚀 **Startup Experience** - Built products from concept to production
-- ☁️ **Cloud Certified** - AWS and Azure platform expertise
-- 🤖 **AI Pioneer** - Early adopter of AI integration in software development
-- 🦀 **Systems Programming Enthusiast** - Currently mastering Rust for high-performance applications
+------------------------------------------------------------------------
 
----
+# 🔥 Featured Projects
 
-## 📚 Knowledge Sharing
+  -----------------------------------------------------------------------
+  Project                 Technologies            Description
+  ----------------------- ----------------------- -----------------------
+  AI‑Enhanced KYC         NestJS, AI APIs,        Intelligent identity
+  Platform                DynamoDB                verification system
 
-I believe in giving back to the developer community through:
-- 📝 **Technical Documentation** - Comprehensive project documentation
-- 🎯 **Best Practices** - Sharing architecture patterns and development methodologies
-- 🤝 **Mentorship** - Guiding junior developers in their career journey
-- 🔄 **Open Source** - Contributing to community projects
+  Enterprise ERP Platform Angular, NestJS,        Scalable ERP system
+                          PostgreSQL
 
----
+  AI Workflow Automation  Node.js, OpenAI, AWS    Business automation
+                                                  with AI agents
 
-## 🤝 Let's Connect & Collaborate
+  Real-Time Chat Platform React, WebSockets, AWS  Cloud messaging
+                          S3                      platform
 
-<div align="center">
+  RBAC Authorization      NestJS, DynamoDB        IAM-inspired permission
+  Engine                                          system
+  -----------------------------------------------------------------------
 
-**I'm always interested in discussing:**
-- 🏗️ Software Architecture & System Design
-- ☁️ Cloud Computing & DevOps
-- 🤖 AI Integration & Automation
-- 🦀 Systems Programming & Rust
-- 💼 Business-Driven Development
+------------------------------------------------------------------------
 
-[![LinkedIn](https://img.shields.io/badge/Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-okeke/)
-[![GitHub](https://img.shields.io/badge/Code_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/comlyboy)
-[![Email](https://img.shields.io/badge/Direct_Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okekecornelius@gmail.com)
+# 🎯 Professional Direction
 
-*"Let's build something amazing together!"* 🚀
+Full‑Stack Engineering\
+↓\
+AI‑Powered Systems\
+↓\
+Cloud Architecture\
+↓\
+Software Architecture\
+↓\
+Technical Leadership
 
-</div>
+------------------------------------------------------------------------
 
----
+# 🤝 Let's Connect
 
-<div align="center">
+-   LinkedIn: https://www.linkedin.com/in/cornelius-okeke/
+-   GitHub: https://github.com/comlyboy
+-   Email: okekecornelius@gmail.com
 
-### 💭 *"The best way to predict the future is to create it."*
+------------------------------------------------------------------------
 
-**Thank you for visiting my profile! ⭐ Star some repositories if you find them interesting!**
-
-</div>
+⭐ Thanks for visiting my profile!
