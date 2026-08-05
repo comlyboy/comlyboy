@@ -14,7 +14,7 @@
 
 # 🚀 About Me
 
-I'm a **Full-Stack Engineer and AI Automation Builder** with a
+I'm a **Senior Full-Stack Engineer** with a
 background in **Business Administration**, specializing in building
 **AI-powered SaaS platforms, intelligent automation systems, and
 scalable cloud architectures**.
@@ -90,18 +90,15 @@ Tools & platforms I work with:
 
 -   OpenAI
 -   LangChain
--   LlamaIndex
 -   Anthropic Claude
 -   Google Gemini
 -   AWS Bedrock
--   Pinecone
--   Weaviate
+
 
 Building **AI-powered applications** including:
 
 -   AI copilots
 -   LLM integrations
--   RAG systems
 -   AI agents
 -   AI workflow automation
 -   conversational interfaces
