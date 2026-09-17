@@ -98,12 +98,14 @@ Tools:     get_profile · get_about · get_experience · get_projects
 
 ## 📦 Open source
 
-Published to npm under [`~comlyboy`](https://www.npmjs.com/~comlyboy) — the shared foundation my projects are built on, extracted once and versioned rather than copied between repos.
+Published to npm under [`~comlyboy`](https://www.npmjs.com/~comlyboy), all built from one monorepo: [`comlyboy/incloodsolutions-toolkit`](https://github.com/comlyboy/incloodsolutions-toolkit) — the shared foundation my projects are built on, extracted once and versioned rather than copied between repos.
 
-[![@incloodsolutions/toolkit](https://img.shields.io/npm/v/@incloodsolutions/toolkit?style=flat-square&label=%40incloodsolutions%2Ftoolkit&color=e5a663)](https://www.npmjs.com/package/@incloodsolutions/toolkit)
-[![@incloodsolutions/node-toolkit](https://img.shields.io/npm/v/@incloodsolutions/node-toolkit?style=flat-square&label=%40incloodsolutions%2Fnode-toolkit&color=e5a663)](https://www.npmjs.com/package/@incloodsolutions/node-toolkit)
-[![@incloodsolutions/react-toolkit](https://img.shields.io/npm/v/@incloodsolutions/react-toolkit?style=flat-square&label=%40incloodsolutions%2Freact-toolkit&color=e5a663)](https://www.npmjs.com/package/@incloodsolutions/react-toolkit)
-[![@incloodsolutions/devkit](https://img.shields.io/npm/v/@incloodsolutions/devkit?style=flat-square&label=%40incloodsolutions%2Fdevkit&color=e5a663)](https://www.npmjs.com/package/@incloodsolutions/devkit)
+| Package | What it is | Links |
+| --- | --- | --- |
+| `@incloodsolutions/toolkit` | Framework-agnostic utilities, helpers, and abstractions for scalable JS/TS apps | [![npm](https://img.shields.io/npm/v/@incloodsolutions/toolkit?style=flat-square&label=npm&color=e5a663)](https://www.npmjs.com/package/@incloodsolutions/toolkit) · [source](https://github.com/comlyboy/incloodsolutions-toolkit/tree/master/toolkit) |
+| `@incloodsolutions/node-toolkit` | Node.js-specific utilities, config, and shared interfaces for backend apps | [![npm](https://img.shields.io/npm/v/@incloodsolutions/node-toolkit?style=flat-square&label=npm&color=e5a663)](https://www.npmjs.com/package/@incloodsolutions/node-toolkit) · [source](https://github.com/comlyboy/incloodsolutions-toolkit/tree/master/node) |
+| `@incloodsolutions/react-toolkit` | Reusable React hooks, utilities, and components | [![npm](https://img.shields.io/npm/v/@incloodsolutions/react-toolkit?style=flat-square&label=npm&color=e5a663)](https://www.npmjs.com/package/@incloodsolutions/react-toolkit) · [source](https://github.com/comlyboy/incloodsolutions-toolkit/tree/master/react) |
+| `@incloodsolutions/devkit` | Dev tooling, config helpers, and AWS CDK constructs for infrastructure | [![npm](https://img.shields.io/npm/v/@incloodsolutions/devkit?style=flat-square&label=npm&color=e5a663)](https://www.npmjs.com/package/@incloodsolutions/devkit) · [source](https://github.com/comlyboy/incloodsolutions-toolkit/tree/master/devkit) |
 
 <br />
 
