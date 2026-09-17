@@ -27,7 +27,7 @@ The work I care about now is **building AI systems, not just applying them**. Th
 - 🌍 Based in Lagos, Nigeria (GMT+1) &nbsp;·&nbsp; open to relocation and sponsorship
 - 🔭 Currently: **Lead Full-Stack Developer** at Exquis App Factory &nbsp;·&nbsp; **Co-founder** at [Coventi.app](https://coventi.app)
 - 🤖 Ask my portfolio directly — it runs its own MCP server, live at `mcp.okekecornelius.com`
-- 📄 [Resume](https://docs.google.com/document/d/1OKeWcFlxXAl43qz5ziOxY2GJ5_YfLp_lWjmBikc4nPU/edit) &nbsp;·&nbsp; [okekecornelius.com](https://okekecornelius.com)
+- 📄 [Resume](https://docs.google.com/document/d/1OKeWcFlxXAl43qz5ziOxY2GJ5_YfLp_lWjmBikc4nPU/edit) &nbsp;·&nbsp; [okekecornelius.com](https://okekecornelius.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
 <br />
 
