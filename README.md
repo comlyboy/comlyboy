@@ -112,7 +112,6 @@ Published to npm under [`~comlyboy`](https://www.npmjs.com/~comlyboy) — the sh
 <div align="center">
 
 <img height="165px" src="https://github-stats-extended.vercel.app/api?username=comlyboy&show_icons=true&hide_border=true&title_color=e5a663&icon_color=e5a663&text_color=a1a1ab&bg_color=0b0b0c" />
-<img height="165px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=comlyboy&layout=compact&hide_border=true&title_color=e5a663&text_color=a1a1ab&bg_color=0b0b0c" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=comlyboy&hide_border=true&background=0b0b0c&ring=e5a663&fire=e5a663&currStreakLabel=e5a663&sideLabels=a1a1ab&currStreakNum=ededf0&sideNums=ededf0&dates=74747e" />
 
