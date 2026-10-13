@@ -58,28 +58,27 @@ Tools:     get_profile · get_about · get_experience · get_projects
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Paystack/Flutterwave](https://img.shields.io/badge/Paystack%20%2F%20Flutterwave-00C3F7?style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-**AI Systems** — designing and shipping the layer of a product that runs on a language model, not bolting one on
+**AI Systems** — resume ranking on Bedrock and Gemini, structured live-event answers on Azure AI Foundry, and the MCP servers that let AI assistants call a product's real data
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square)
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-e5a663?style=flat-square)
 
 **Frontend & Cross-platform** — built for the slowest device on the worst connection
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular 22 (Signals)](https://img.shields.io/badge/Angular_22_(Signals)-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-333333?style=flat-square)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![WCAG AA Accessibility](https://img.shields.io/badge/Accessibility-WCAG_AA-1C3C3C?style=flat-square)
@@ -93,6 +92,7 @@ Tools:     get_profile · get_about · get_experience · get_projects
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(OIDC)-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
